@@ -1,0 +1,11 @@
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\bin\Debug\R1711785_VB_Registration Form.exe.config
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\bin\Debug\R1711785_VB_Registration Form.exe
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\bin\Debug\R1711785_VB_Registration Form.pdb
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\bin\Debug\R1711785_VB_Registration Form.xml
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\obj\Debug\WindowsApplication1.RegistrationForm.resources
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\obj\Debug\R1711785_VB_Registration Form.vbproj.GenerateResource.Cache
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\obj\Debug\R1711785_VB_Registration Form.exe
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\obj\Debug\R1711785_VB_Registration Form.xml
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\obj\Debug\R1711785_VB_Registration Form.pdb
+C:\Users\ideapad 110\Desktop\VB\R1711785_VB_Registration Form\R1711785_VB_Registration Form\obj\Debug\WindowsApplication1.MAIN_MENU.resources
